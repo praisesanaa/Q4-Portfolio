@@ -18,7 +18,7 @@ h3 {
 	display: table-header-group;
 }
 .divTableCell, .divTableHead {
-	border: 10px solid #999999;
+	border: 1px solid #999999;
 	display: table-cell;
 	padding: 3px 10px;
 }
