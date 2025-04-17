@@ -14,6 +14,9 @@ p {
 	text-align: center;
 }
 
+body{
+	background-color: #9eafdb;
+}
 
 .divTable{
 	display: table;
